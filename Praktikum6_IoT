@@ -1,1 +1,9 @@
-
+Rangkaian simulasi IoT diatas menunjukkan bahwa tiap device terkoneksi dengan wireless router. Setting protokol keamanan wifi menggunakan WPA2 enterprise, dengan  tipe enkripsi AES.
+Perangkat dalam simulasi meliputi :
+Laptop-PT: Laptop yang digunakan untuk mengontrol perangkat di jaringan.
+Server1: Server yang menyimpan data dan aplikasi untuk sistem otomasi rumah.
+Sener-PT: Printer yang terhubung ke jaringan dan dapat diakses dari laptop.
+Fan: Kipas langit-langit yang dapat dihidupkan dan dimatikan dari laptop.
+G_DOOR: Pembuka pintu garasi yang dapat dikontrol dari laptop.
+LAMP: Lampu yang dapat dihidupkan dan dimatikan dari laptop.
+DOOR: Kunci pintu yang dapat dikunci dan dibuka kuncinya dari laptop.
